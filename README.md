@@ -15,15 +15,15 @@ Icons in GUI Open Core boot
 ## How to Install
 
 
-º Follow this tutorial in [Open Core Post-Install](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-opencore-s-gui)
+• Follow this tutorial in [Open Core Post-Install](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-opencore-s-gui)
 
 *your config.plist > Misc -> Boot will looks like this:*
 
-*in HideAulixiary i set True to more clean screen*
+*In HideAulixiary i set True to more clean screen*
  
 ![image](https://user-images.githubusercontent.com/80064475/126729630-43ff37a8-512f-4755-8733-e72ff858ae72.png)
 
-* Then finally put the icons in GoldenGate (ou another) folder
+*• Then finally put the icons in GoldenGate (ou another) folder*
 
 ![image](https://user-images.githubusercontent.com/80064475/126729621-e6ca58cb-8b1f-4a7d-a246-952f8526d93d.png)
 
