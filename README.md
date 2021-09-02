@@ -8,6 +8,11 @@ These are the icons
 
 ![image](https://user-images.githubusercontent.com/80064475/126729530-3d23bc77-f8db-4be4-8a09-f8a5112e9710.png)
 
+Linux (optional)
+
+![image](https://user-images.githubusercontent.com/80064475/131876709-26af53a1-f8a7-41ba-810f-b55dba8d9aea.png)
+
+
 Icons in GUI Open Core boot
 
 ![image](https://user-images.githubusercontent.com/80064475/126729598-5f38ce84-653f-4ac4-a860-32aa0dfd04aa.png)
